@@ -1,7 +1,4 @@
 edited on master 
 edited on branch new
-<<<<<<< HEAD
 conflict from master
-=======
-line for conf
->>>>>>> d073a576965c1950003807e210813afb9628e965
+line for conflict
