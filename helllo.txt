@@ -1,3 +1,3 @@
 edited on master 
 edited on branch new
-line for conf
+line for conflict
